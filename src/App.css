@@ -134,6 +134,7 @@ h6 {
 
 .show-nav {
   height: 100px;
+  padding: var(--mainSpacing);
 }
 @media screen and (min-width: 768px) {
   .nav-btn {
